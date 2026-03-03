@@ -4,5 +4,5 @@ openai
 requests
 aiohttp
 flask
-Python 3.11
 Pillow
+
