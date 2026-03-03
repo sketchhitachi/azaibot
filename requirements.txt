@@ -5,5 +5,3 @@ yt-dlp
 openai
 requests
 aiohttp
-flask
-Pillow
