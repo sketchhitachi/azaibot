@@ -1,8 +1,9 @@
-python-telegram-bot==20.7
+python-telegram-bot>=21.0
+flask
+Pillow
 yt-dlp
 openai
 requests
 aiohttp
 flask
 Pillow
-
